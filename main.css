@@ -1,0 +1,84 @@
+.box{
+background-color: aqua;
+color: rgb(234, 127, 255);
+text-align: center;
+border-radius: 20px;
+border: 2px solid red;
+}
+.strong{
+    background-color: yellow;
+}
+.nike{
+    color: red;
+}
+.lime{
+    color: greenyellow;
+}
+.roblox{
+    text-align: center;
+}
+.mine{
+    background-color: yellow;
+    color: blueviolet;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+.name{
+    color: aquamarine;
+}
+.blabla{
+    color: aquamarine;
+}
+.aaaaa{
+    background-color: blue;
+    color: azure;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.car{
+    border: 2px solid black  ;
+    border-collapse: collapse;
+}
+.avava{
+    background-color: green;
+    color: aliceblue;
+}
+.gdgd{
+    background-color: yellow;
+    color: azure;
+    text-align: center;
+}
+.abc{
+    border: 1px solid black;
+    background-color: aquamarine;
+    color: aliceblue;
+    
+    
+    
+}
+.drop{
+    background-color: blue;
+    color: aliceblue;
+    width: 100%;
+}
+.auf{
+    background-color: red;
+    color: azure;
+}
+.em3{
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
+.edgar{
+    background-color: red;
+    color: azure;
+}
+.stu_peni{
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
